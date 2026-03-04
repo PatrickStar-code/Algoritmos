@@ -105,8 +105,7 @@ adicionados.
 
 ## 👨‍💻 Autor
 
-Desenvolvido durante a disciplina de Algoritmos. Aluno:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Desenvolvido durante a disciplina de Algoritmos. Aluno:PatrickStar☆
 
 ------------------------------------------------------------------------
 
