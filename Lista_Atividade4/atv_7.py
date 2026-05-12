@@ -1,7 +1,7 @@
 frase = input("Digite uma frase ")
 frase.lower()
 
-c = input("DIgite um caracter ")
+c = input("Digite um caracter ")
 
 for i in frase:
     if i == c:
